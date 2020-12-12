@@ -1,0 +1,39 @@
+table {
+  	color:#ffcc00;
+  	width:600;
+  	background-color: #8A2BE2;
+        }
+
+hr {
+  	border: 5px dashed red; 
+  	border-radius: 6px;
+  	width :1.5%; 
+     }
+
+ h1 {
+        color: maroon;
+        margin-left: 40px;
+        font-size: 20px;
+    }
+
+p {
+	color: orange;
+	font-style: italic;
+}
+
+h2 {
+	color: blue;
+	shape-margin: 40px;
+}
+
+body {
+	background-color: black;
+}
+
+form {
+	color: white;
+}
+
+tr {
+	font-style: oblique;
+}
